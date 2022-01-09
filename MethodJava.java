@@ -5,8 +5,6 @@ public class MethodJava {
        int z;
 
            z=x+y;
-
-
        return z;
     }
     // WITHOUT STATIC WE NEED CLASS OBJECT TO CALL METHOD
